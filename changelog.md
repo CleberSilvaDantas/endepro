@@ -1,6 +1,6 @@
 ## v1.3.0-rc.5
 ### 07/05/2017
-
+:new:
 1. [](#new)
     * Nova funcionalidade 1
     * Nova funcionalidade 2
